@@ -1,0 +1,10 @@
+{
+    "openai_key": "",
+    "modules": [
+        "splash_page",
+        "home_page",
+        "add_page",
+        "detail_page",
+        "edit_page"
+    ]
+}

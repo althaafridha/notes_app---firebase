@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674914443498",
+    "project_id": "note-app---fiutter",
+    "storage_bucket": "note-app---fiutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674914443498:android:b2c5123fb2c284242a7793",
+        "android_client_info": {
+          "package_name": "com.example.note_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674914443498-lnva6v0s6tc10jj6oi2vt3pobgfl4foi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX9VNQk6rjXRX7LJiYpD2mBWQ-OUysbj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674914443498-lnva6v0s6tc10jj6oi2vt3pobgfl4foi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
